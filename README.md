@@ -5,7 +5,7 @@ Salut, je suis CreativeTab. Étudiant, je me passionne pour l'informatique et pl
 > Je suis le créateur de "[**Looking for a good project.....**]()" Plus d'informations disponibles sur mon portfolio : [**en cours de réalisation....**](https://www.creativetab.fr)
 
 ## 📁 Projets
-Voici les plus gros projets **publics**, la plupart de mes projets ne partagent pas leurs codes.
+Voici mes projets **publics** : 
 
 * Aucun n'a été rendu public pour l'instant sur mon Github
 
