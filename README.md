@@ -30,6 +30,6 @@ Voici mes projets **publics** :
 
 ## 📊 Statistiques
 
-<img src="https://github-readme-stats.vercel.app/api?username=creativetab&show_icons=true&theme=tokyonight&hide_border=true" width="400"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=CreativeTab&theme=tokyonight&hide_border=true" width="400"/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=CreativeTab&theme=tokyonight&hide_border=true" width="400"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=creativetab&theme=tokyonight&hide_border=true" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api?username=creativetab&show_icons=true&theme=tokyonight&hide_border=true" width="400"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CreativeTab&theme=tokyonight&hide_border=true" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=creativetab&theme=tokyonight&hide_border=true" width="400"/>
