@@ -1,13 +1,15 @@
 # <div align="center">CreativeTab | Développeur en tout genre</div>
 ## 👋 Présentation
-Salut, je suis CreativeTab. Étudiant, je me passionne pour l'informatique et plus précisément le développement depuis plusieurs années maintenant. J'ai commencé avec python pour les IA, puis je suis passé en Java principalement pour Minecraft ainsi que sur les langages web (HTML CSS JS) et actuellement j'apprend le C++ !
+Salut, je suis CreativeTab. Étudiant, je me passionne pour l'informatique et plus précisément le développement depuis plusieurs années maintenant. J'ai commencé avec python pour les IA, puis je suis passé en Java principalement pour Minecraft ainsi que sur les langages web (HTML CSS JS) et actuellement je travaille principalement en JS, avec electron et node.js !
 
-> Je suis le créateur de "[**Looking for a good project.....**]()" Plus d'informations disponibles sur mon portfolio : [**en cours de réalisation....**](https://www.creativetab.fr)
+> Je suis le co-fondateur de "[**EcoleDirecte Desktop**](https://betterecoledirecte.fr)" avec mon ami SkyVerseMc, ainsi que d'un projet en lien donc je suis le fondateur : "[**EcoleDirecte Client**](https://betterecoledirecte.fr)". 
+
+Plus d'informations disponibles sur mon portfolio : [**en cours de réalisation....**](https://www.creativetab.fr)
 
 ## 📁 Projets
 Voici mes projets **publics** : 
 
-* Aucun n'a été rendu public pour l'instant sur mon Github
+* Aucun n'a été rendu public pour l'instant sur mon Github, mais certains le seront bientôt (principalement des bots discord en js dans un premier temps, ainsi que d'une webview faite avec electron)
 
 ## ✨ Compétences
 
@@ -30,12 +32,4 @@ Voici mes projets **publics** :
 
 <img src="https://github-readme-stats.vercel.app/api?username=creativetab&show_icons=true&theme=tokyonight&hide_border=true" width="400"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=CreativeTab&theme=tokyonight&hide_border=true" width="400"/>
 
-<!---
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=CreativeTabche&theme=tokyonight&hide_border=true" width="400"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=creativetab&theme=tokyonight&hide_border=true" width="400"/>
-Footer
---->
-
-<!---
-matth9494/matth9494 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img src="https://github-readme-stats.vercel.app/api?username=CreativeTab&theme=tokyonight&hide_border=true" width="400"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=creativetab&theme=tokyonight&hide_border=true" width="400"/>
