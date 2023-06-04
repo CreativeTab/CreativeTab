@@ -33,4 +33,4 @@ Voici mes projets **publics** :
 <img src="https://github-readme-stats.vercel.app/api?username=creativetab&show_icons=true&theme=tokyonight&hide_border=true" width="400"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=CreativeTab&theme=tokyonight&hide_border=true" width="400"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=creativetab&theme=tokyonight&hide_border=true" width="400"/>
-![](https://komarev.com/ghpvc/?username=CreativeTab&label=Vues+du+profil)
+<img src="https://komarev.com/ghpvc/?username=CreativeTab&label=Vues+du+profil" />
