@@ -9,7 +9,8 @@ Plus d'informations disponibles sur mon portfolio : [**en cours de réalisation.
 ## 📁 Projets
 Voici mes projets **publics** : 
 
-* Aucun n'a été rendu public pour l'instant sur mon Github, mais certains le seront bientôt (principalement des bots discord en js dans un premier temps, ainsi que d'une webview faite avec electron)
+* [ChangelogBot](https://github.com/creativetab/changelogbot)
+* De nouveaux projets le seront bientôt (principalement des bots discord en js dans un premier temps, ainsi que d'une webview faite avec electron)
 
 ## ✨ Compétences
 
