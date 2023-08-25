@@ -2,7 +2,7 @@
 ## 👋 Présentation
 Salut, je suis CreativeTab. Étudiant, je me passionne pour l'informatique et plus précisément le développement depuis plusieurs années maintenant. J'ai commencé avec python pour les IA, puis je suis passé en Java principalement pour Minecraft ainsi que sur les langages web (HTML CSS JS) et actuellement je travaille principalement en JS, avec electron et node.js !
 
-> Je suis le fondateur de "[**BetterEcoleDirecte**](https://github.com/better-ecoledirecte)". 
+> Je suis le fondateur de [**BetterEcoleDirecte**](https://github.com/better-ecoledirecte). 
 
 Plus d'informations disponibles sur mon portfolio : [**en cours de réalisation....**](https://www.creativetab.fr)
 
