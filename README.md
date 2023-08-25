@@ -2,15 +2,16 @@
 ## 👋 Présentation
 Salut, je suis CreativeTab. Étudiant, je me passionne pour l'informatique et plus précisément le développement depuis plusieurs années maintenant. J'ai commencé avec python pour les IA, puis je suis passé en Java principalement pour Minecraft ainsi que sur les langages web (HTML CSS JS) et actuellement je travaille principalement en JS, avec electron et node.js !
 
-> Je suis le co-fondateur de "[**EcoleDirecte Desktop**](https://betterecoledirecte.fr)" avec mon ami SkyVerseMc, ainsi que d'un projet en lien donc je suis le fondateur : "[**EcoleDirecte Client**](https://betterecoledirecte.fr)". 
+> Je suis le fondateur de "[**BetterEcoleDirecte**](https://github.com/better-ecoledirecte)". 
 
 Plus d'informations disponibles sur mon portfolio : [**en cours de réalisation....**](https://www.creativetab.fr)
 
 ## 📁 Projets
 Voici mes projets **publics** : 
 
+* [Projet en cours] [**BetterEcoleDirecte**](https://github.com/better-ecoledirecte)
 * [ChangelogBot](https://github.com/creativetab/changelogbot)
-* De nouveaux projets le seront bientôt (principalement des bots discord en js dans un premier temps, ainsi que d'une webview faite avec electron)
+* De nouveaux projets le seront bientôt
 
 ## ✨ Compétences
 
@@ -33,5 +34,4 @@ Voici mes projets **publics** :
 
 <img src="https://github-readme-stats.vercel.app/api?username=creativetab&show_icons=true&theme=tokyonight&hide_border=true" width="400"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=CreativeTab&theme=tokyonight&hide_border=true" width="400"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=creativetab&theme=tokyonight&hide_border=true" width="400"/>
 <img src="https://komarev.com/ghpvc/?username=CreativeTab&label=Vues+du+profil" />
